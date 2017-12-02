@@ -1,3 +1,8 @@
+/*
+Programador: Vinicio Lima
+Data: 05/11/2017
+*/
+
 package teste;
 import java.text.DecimalFormat;
 import java.util.Random;
